@@ -1,4 +1,4 @@
-# FroggerBoot
+FroggerBoot
 
 ##Introducción
 Frogger es un juego de arcade desarrollado por Konami y originalmente publi-cado por Sega.  
@@ -8,7 +8,7 @@ ensamblador el booteo desde una unidad USB,donde una vez que bootee, se cargue u
 un programa llamado Frogger.En  este  caso,  el  booteo  con  USB  se  simulara  con  una
 máquina  virtual  y  un archivo ISO.
 
-##Ambiente de trabajo
+#Ambiente de trabajo
 
 -Sistema Operativo Ubuntu 18.04 para compilacion del .asm
 
